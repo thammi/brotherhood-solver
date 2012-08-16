@@ -7,7 +7,7 @@ feature is the ability to solve captchas in Linux.
 
 ## Installation
 
-You need to have Python 3 and matching PyQt4. With Debian just run:
+You need to have Python 3 and matching PyQt4. On Debian just run:
 
     apt-get install python3 python3-pyqt4
 
@@ -20,4 +20,8 @@ Configure the program in the file '~/.brother\_solver'. It should look like this
     [account]
     user: me
     password: 123456
+
+The graphical user interface is started with:
+
+    brotherhood_solver
 
