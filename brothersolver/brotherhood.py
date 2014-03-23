@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from urllib.parse import urlencode
 
-API_BASE = 'http://ocrhood.gazcad.com/'
+API_BASE = 'http://www.captchabrotherhood.com/'
 
 class BrotherhoodException(Exception):
     pass
