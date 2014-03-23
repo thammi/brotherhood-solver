@@ -9,7 +9,7 @@ feature is the ability to solve captchas in Linux.
 
 You need to have Python 3 and matching PyQt4. On Debian just run:
 
-    apt-get install python3 python3-pyqt4
+    apt-get install python3 python3-pyqt4 python3-setuptools
 
 The best way to install this application is:
 
